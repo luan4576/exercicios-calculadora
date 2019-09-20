@@ -1,0 +1,11 @@
+C:\Users\50539955833\Documents\calculadora\impar\obj\Debug\netcoreapp2.2\impar.csprojAssemblyReference.cache
+C:\Users\50539955833\Documents\calculadora\impar\obj\Debug\netcoreapp2.2\impar.csproj.CoreCompileInputs.cache
+C:\Users\50539955833\Documents\calculadora\impar\obj\Debug\netcoreapp2.2\impar.AssemblyInfoInputs.cache
+C:\Users\50539955833\Documents\calculadora\impar\obj\Debug\netcoreapp2.2\impar.AssemblyInfo.cs
+C:\Users\50539955833\Documents\calculadora\impar\bin\Debug\netcoreapp2.2\impar.deps.json
+C:\Users\50539955833\Documents\calculadora\impar\bin\Debug\netcoreapp2.2\impar.runtimeconfig.json
+C:\Users\50539955833\Documents\calculadora\impar\bin\Debug\netcoreapp2.2\impar.runtimeconfig.dev.json
+C:\Users\50539955833\Documents\calculadora\impar\bin\Debug\netcoreapp2.2\impar.dll
+C:\Users\50539955833\Documents\calculadora\impar\bin\Debug\netcoreapp2.2\impar.pdb
+C:\Users\50539955833\Documents\calculadora\impar\obj\Debug\netcoreapp2.2\impar.dll
+C:\Users\50539955833\Documents\calculadora\impar\obj\Debug\netcoreapp2.2\impar.pdb

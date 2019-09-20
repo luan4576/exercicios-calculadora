@@ -6,21 +6,22 @@ namespace escola
     {
         static void Main(string[] args)
         {
-            double  nota1,nota2,nota3,nota4,media;
+             double  nota1,nota2,nota3,nota4,media;
             
+
             Console.WriteLine("entre a primeira nota:");
-            nota1=double.parse(Console.ReadLine());
+            nota1=double.Parse(Console.ReadLine());
 
               Console.WriteLine("entre a segunda nota:");
-            nota2=double.parse(Console.ReadLine());
+            nota2=double.Parse(Console.ReadLine());
 
               Console.WriteLine("entre a terceira nota:");
-            nota3=double.parse(Console.ReadLine());
+            nota3=double.Parse(Console.ReadLine());
 
               Console.WriteLine("entre a quarta nota:");
-            nota4=double.parse(Console.ReadLine());
+            nota4=double.Parse(Console.ReadLine());
 
-            Media = (nota1,nota2,nota3,nota4 ) /4;
+            media = (nota1,nota2,nota3,nota4 ) /4;
 
             if (media>=7.0) {
                 Console.WriteLine("parabens vc foi aprovado");

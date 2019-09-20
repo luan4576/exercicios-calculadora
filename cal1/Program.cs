@@ -8,10 +8,10 @@ namespace calculadora
         {
             
             Console.WriteLine("Hello World!");
-            Console.Writeline("adiçao + resultado")  
-            Console.Writeline("qual operaçao");
-            Console.Writeline("qual o segundo numero");
-            Console.Writeline("qual operador matematico");
+            Console.WriteLine("adiçao + resultado") ;
+            Console.WriteLine("qual operaçao");
+            Console.WriteLine("qual o segundo numero");
+            Console.WriteLine("qual operador matematico");
         }
     }
 }
