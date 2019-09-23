@@ -1,0 +1,11 @@
+C:\Users\50539955833\Documents\exercicios\faixa-etaria\bin\Debug\netcoreapp2.2\faixa-etaria.deps.json
+C:\Users\50539955833\Documents\exercicios\faixa-etaria\bin\Debug\netcoreapp2.2\faixa-etaria.runtimeconfig.json
+C:\Users\50539955833\Documents\exercicios\faixa-etaria\bin\Debug\netcoreapp2.2\faixa-etaria.runtimeconfig.dev.json
+C:\Users\50539955833\Documents\exercicios\faixa-etaria\bin\Debug\netcoreapp2.2\faixa-etaria.dll
+C:\Users\50539955833\Documents\exercicios\faixa-etaria\bin\Debug\netcoreapp2.2\faixa-etaria.pdb
+C:\Users\50539955833\Documents\exercicios\faixa-etaria\obj\Debug\netcoreapp2.2\faixa-etaria.csprojAssemblyReference.cache
+C:\Users\50539955833\Documents\exercicios\faixa-etaria\obj\Debug\netcoreapp2.2\faixa-etaria.csproj.CoreCompileInputs.cache
+C:\Users\50539955833\Documents\exercicios\faixa-etaria\obj\Debug\netcoreapp2.2\faixa-etaria.AssemblyInfoInputs.cache
+C:\Users\50539955833\Documents\exercicios\faixa-etaria\obj\Debug\netcoreapp2.2\faixa-etaria.AssemblyInfo.cs
+C:\Users\50539955833\Documents\exercicios\faixa-etaria\obj\Debug\netcoreapp2.2\faixa-etaria.dll
+C:\Users\50539955833\Documents\exercicios\faixa-etaria\obj\Debug\netcoreapp2.2\faixa-etaria.pdb
