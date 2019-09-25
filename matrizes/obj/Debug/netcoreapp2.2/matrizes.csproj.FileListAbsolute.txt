@@ -1,0 +1,11 @@
+C:\Users\50539955833\Documents\exercicios\matrizes\bin\Debug\netcoreapp2.2\matrizes.deps.json
+C:\Users\50539955833\Documents\exercicios\matrizes\bin\Debug\netcoreapp2.2\matrizes.runtimeconfig.json
+C:\Users\50539955833\Documents\exercicios\matrizes\bin\Debug\netcoreapp2.2\matrizes.runtimeconfig.dev.json
+C:\Users\50539955833\Documents\exercicios\matrizes\bin\Debug\netcoreapp2.2\matrizes.dll
+C:\Users\50539955833\Documents\exercicios\matrizes\bin\Debug\netcoreapp2.2\matrizes.pdb
+C:\Users\50539955833\Documents\exercicios\matrizes\obj\Debug\netcoreapp2.2\matrizes.csprojAssemblyReference.cache
+C:\Users\50539955833\Documents\exercicios\matrizes\obj\Debug\netcoreapp2.2\matrizes.csproj.CoreCompileInputs.cache
+C:\Users\50539955833\Documents\exercicios\matrizes\obj\Debug\netcoreapp2.2\matrizes.AssemblyInfoInputs.cache
+C:\Users\50539955833\Documents\exercicios\matrizes\obj\Debug\netcoreapp2.2\matrizes.AssemblyInfo.cs
+C:\Users\50539955833\Documents\exercicios\matrizes\obj\Debug\netcoreapp2.2\matrizes.dll
+C:\Users\50539955833\Documents\exercicios\matrizes\obj\Debug\netcoreapp2.2\matrizes.pdb
