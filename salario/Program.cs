@@ -10,7 +10,7 @@ namespace salario
             double aumento;
 
             Console.WriteLine("qual o seu salario");
-            salario= double.Parse(Console.ReadLine);
+            salario= double.Parse(Console.ReadLine());
 
             if (salario <500) {
                 aumento = salario * 0.3;
