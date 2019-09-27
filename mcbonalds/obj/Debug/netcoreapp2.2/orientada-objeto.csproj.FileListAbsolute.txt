@@ -1,0 +1,11 @@
+C:\Users\50539955833\Documents\exercicios\mcbonalds\obj\Debug\netcoreapp2.2\orientada-objeto.csprojAssemblyReference.cache
+C:\Users\50539955833\Documents\exercicios\mcbonalds\obj\Debug\netcoreapp2.2\orientada-objeto.csproj.CoreCompileInputs.cache
+C:\Users\50539955833\Documents\exercicios\mcbonalds\obj\Debug\netcoreapp2.2\orientada-objeto.AssemblyInfoInputs.cache
+C:\Users\50539955833\Documents\exercicios\mcbonalds\obj\Debug\netcoreapp2.2\orientada-objeto.AssemblyInfo.cs
+C:\Users\50539955833\Documents\exercicios\mcbonalds\bin\Debug\netcoreapp2.2\orientada-objeto.deps.json
+C:\Users\50539955833\Documents\exercicios\mcbonalds\bin\Debug\netcoreapp2.2\orientada-objeto.runtimeconfig.json
+C:\Users\50539955833\Documents\exercicios\mcbonalds\bin\Debug\netcoreapp2.2\orientada-objeto.runtimeconfig.dev.json
+C:\Users\50539955833\Documents\exercicios\mcbonalds\bin\Debug\netcoreapp2.2\orientada-objeto.dll
+C:\Users\50539955833\Documents\exercicios\mcbonalds\bin\Debug\netcoreapp2.2\orientada-objeto.pdb
+C:\Users\50539955833\Documents\exercicios\mcbonalds\obj\Debug\netcoreapp2.2\orientada-objeto.dll
+C:\Users\50539955833\Documents\exercicios\mcbonalds\obj\Debug\netcoreapp2.2\orientada-objeto.pdb

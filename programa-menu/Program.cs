@@ -27,13 +27,13 @@ namespace programa_menu
             switch (menu) {
                 case "1":
                  Console.WriteLine("qual o raio da circuferencia?");
-                 double n1=Parse(console.ReadLine());
+                 double n1 = Parse(Console.ReadLine());
                  double area =3.14*n1*n1;
                   Console.WriteLine("a area da circuferencia é" + area);
                 break;
                 case "2":
                  Console.WriteLine("qual o lado do quadrado?");
-                 double n1=double.Parse(console.ReadLine());
+                 double n1=double.Parse(Console.ReadLine());
                  double area =*n1*n1;
                   Console.WriteLine("a area do quadrado é" + area);
 

@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\50539955833\\Documents\\exercicios\\orientada-objeto\\orientada-objeto.csproj",
+      "projectUniqueName": "C:\\Users\\50539955833\\Documents\\exercicios\\mcbonalds\\orientada-objeto.csproj",
       "projectName": "orientada-objeto",
-      "projectPath": "C:\\Users\\50539955833\\Documents\\exercicios\\orientada-objeto\\orientada-objeto.csproj",
+      "projectPath": "C:\\Users\\50539955833\\Documents\\exercicios\\mcbonalds\\orientada-objeto.csproj",
       "packagesPath": "C:\\Users\\50539955833\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\50539955833\\Documents\\exercicios\\orientada-objeto\\obj\\",
+      "outputPath": "C:\\Users\\50539955833\\Documents\\exercicios\\mcbonalds\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
