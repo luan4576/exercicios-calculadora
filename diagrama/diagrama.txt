@@ -1,0 +1,21 @@
+como trocar uma lampada?
+1-testava o interruptor para ver se a lampada acende  >acendeu  >sim  >terminado
+2-se nao acendece 
+3-iria olhar a energia				
+3-se estivesse com energia 
+4-iria olhar a lampada 
+5-compraria uma lampada
+6-trocaria a lampada
+
+
+
+como escovar os dentes?
+1-verificaria se estava com bafo 
+2-sim 
+3-va ate a pia  
+4-pegue a escova 
+5-coloque pasta na escova
+6-e escove os dentes ate ficar limpo
+7-enxaguar a boca
+8-para pequenas sugeiras fio dental para finalizar
+9-sorriso colgate

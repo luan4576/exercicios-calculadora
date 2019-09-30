@@ -1,0 +1,14 @@
+1-ligar a calculadora
+2 saber os sinais matematicos
+3-saber os valores dos numeros
+4-qual o primeiro numero
+5- qual operaçao
+6-segundo numero
+7-qual operador matematico
+-clicar em um numero escolher uma operaçao clicar em outro numero
+-finalizar
+
+
+
+ 
+

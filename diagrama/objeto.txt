@@ -1,0 +1,41 @@
+namespace sala de aula
+
+{
+class aluno
+  {
+	//atributos da classe aluno
+
+	public string nome{get;set;} //nome do aluno
+	public string data{get;set;} //data de nascimento
+	public string cpf{get;set;} //documento de identificaçao	
+	int[]notas; //vetor contendo as notas bimestrais
+
+	//construtores
+	public aluno(string nome,string cpf)
+	{
+	   this.nome = nome;
+           this.cpf = cpf;
+	}
+	//metodos de acesso
+	public int[]getnotas()
+	
+	 
+
+
+
+	//metodos
+
+	void estudar () {}
+	void conversar () {}
+	void perguntar () {}
+	void chorar prazos () {}
+	void chorar notas () {}
+	void chorar pelos cantos () {}
+
+
+
+
+
+
+    }
+}
