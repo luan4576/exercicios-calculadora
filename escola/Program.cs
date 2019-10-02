@@ -6,8 +6,8 @@ namespace escola
     {
         static void Main(string[] args)
         {
-             double  nota1,nota2,nota3,nota4,media;
-             
+            double  nota1,nota2,nota3,nota4,media;
+            
 
             Console.WriteLine("entre a primeira nota:");
             nota1=double.Parse(Console.ReadLine());
