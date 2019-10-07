@@ -15,7 +15,21 @@ namespace byte_bank {
         public double Deposito (double valor) {
             this.Saldo += valor;
             return this.Saldo;
+
+            if (valor >= 0)
+            {
+                this.Saldo += valor;
+                return this.Saldo;
+            }
+            else
+            {
+            
+                return this.Saldo;
+
+            }
         }
+
+
         public bool Saque (double valor) {
             if (valor <= this.Saldo) {
                 this.Saldo -= valor;
