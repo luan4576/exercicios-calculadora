@@ -1,3 +1,4 @@
+using System;
 namespace SENAIzinho
 {
     public class Aluno
@@ -5,7 +6,7 @@ namespace SENAIzinho
         public string nome {get;set;}
         public DateTime dataNascimento {get;set;}
         public string curso {get;set;}
-        public int numeroSala {get;set;}
+        public string numeroSala {get;set;}
 
 
         

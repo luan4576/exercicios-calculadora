@@ -11,13 +11,17 @@ namespace TodoList
             List<TodoItem> todoList = new List<TodoItem>();
             string fileName = "todo.csv";
             string filePath = ".\\" + fileName;
+            todoList = initList (@filePath);
             
             
             if(todoList == null){
+                //termina a aplicaçao porque a lista de afazeres nao carregou.
                 return -1;
             }
-
+                //a lista carregou continua a excessao.
             int opcao = 0;
+            
+
 
             do{
                 Console.Clear();
@@ -41,6 +45,7 @@ namespace TodoList
                         break;
                     case 3:
                         Console.WriteLine("Tchau!");
+                        SaveList(todoList,@filePath);
                         break;
                     default:
                         Console.WriteLine("Opção Inválida");
@@ -130,7 +135,37 @@ namespace TodoList
                 }
             }while(true);
         }
+        
+        static void SaveList(List <TodoItem> lista, string path){
+            List<string> linhas = new List<string>();
 
+            linhas.Add("title,note");
+            foreach(TodoItem item in lista){
+                    string titulo = "\"" + item.Titulo + "\"";
+                    string nota = "\"" +item.Nota + "\"";
+                    linhas.Add(titulo + "," + nota);
+            }
+
+            string tryAgain = "n";
+            do{
+            try{
+                File.WriteAllLines(@path,linhas);
+                tryAgain = "n";
+            }catch(IOException e){
+                System.Console.WriteLine("Erro na leitura do arquivo.");
+                System.Console.WriteLine(e.Message);
+                do{
+
+                System.Console.WriteLine("deseja tentar novamente (s/n)?");
+                tryAgain = Console.ReadLine().ToLower();
+                if((tryAgain != "n") || (tryAgain != "s")){
+                    System.Console.WriteLine("opçao invalida");
+                }
+                }while((tryAgain == "s") || (tryAgain == "n"));
+
+            }
+            }while(tryAgain != "n");
+        }
     }
 
 }

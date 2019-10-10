@@ -1,3 +1,4 @@
+using System;
 namespace SENAIzinho
 {
     public class Sala
@@ -7,9 +8,9 @@ namespace SENAIzinho
         public int numeroSala {get;set;}
         public string[] alunos {get;set;}
 
-        public Sala(int numerSala,int capacidadeTotalSala);
-        public string AlolcarAluno();
-        public string RemoverAluno();
-        public string MostrarAlunos();
+        public Sala(int numeroSala,int capacidadeTotal);
+
+
+
     }
 }
