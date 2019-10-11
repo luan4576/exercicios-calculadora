@@ -21,7 +21,7 @@ namespace escola
               Console.WriteLine("entre a quarta nota:");
             nota4=double.Parse(Console.ReadLine());
 
-            media = (nota1,nota2,nota3,nota4 ) /4;
+            media =(nota1,nota2,nota3,nota4 ) /4;
 
             if (media>=7.0) {
                 Console.WriteLine("parabens vc foi aprovado");

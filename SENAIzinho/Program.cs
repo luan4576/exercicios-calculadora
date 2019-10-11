@@ -17,7 +17,8 @@ namespace SENAIzinho
             System.Console.WriteLine("3-alocar aluno");
             opçao =int.Parse(Console.ReadLine());
 
-            
+
+                
             }
         }
     }

@@ -53,7 +53,8 @@ namespace byte_bank {
             } while (!SaldoValido);
 
             ContaCorrente contaCorrente = new ContaCorrente (Agencia, cliente1, Numeros);
-            contaCorrente.Saldo = saldo;
+            contaCorrente.Deposito(saldo);
+            contaCorrente.Agencia =123;
 
             System.Console.WriteLine("byte-bank - Deposito");
             cliente usuario = contaCorrente.Titular;
@@ -77,8 +78,9 @@ namespace byte_bank {
             System.Console.WriteLine("bytebank - Tranferencia");
             System.Console.Write("digite o valor da transferencia:");
             valor = double.Parse(Console.ReadLine());
-            cliente cliente2 =new cliente("Luan","123.456.789","vfgv@ttt.com");
+
             
+            cliente cliente2 =new cliente("Luan","123.456.789","vfgv@ttt.com");
             ContaCorrente contaCorrente2 = new ContaCorrente (123,cliente2,132);
 
             if (contaCorrente.Trasferencia(contaCorrente2,valor)){

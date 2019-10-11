@@ -4,38 +4,38 @@ namespace byte_bank {
         public int Agencia { get; set; }
         public cliente Titular { get; set; }
         public int Numeros { get; set; }
-        public double Saldo { get; set; }
+        private double _saldo;
+
+        public double Saldo{
+            get { return _saldo; }
+        }
 
         public ContaCorrente (int Agencia, cliente Titular, int Numeros) {
             this.Titular = Titular;
             this.Agencia = Agencia;
             this.Numeros = Numeros;
-            this.Saldo = 0.0;
+            this._saldo = 0.0;
         }
         public double Deposito (double valor) {
-            this.Saldo += valor;
-            return this.Saldo;
 
-            if (valor >= 0)
-            {
-                this.Saldo += valor;
-                return this.Saldo;
+            if(valor> 0) {
+            this._saldo += valor;
+            return this._saldo;
+                
+                }else {
+                    System.Console.WriteLine("o deposito nao pode ser negativo");
+                    return this._saldo;
+                } 
             }
-            else
-            {
-            
-                return this.Saldo;
-
-            }
-        }
+        
 
 
         public bool Saque (double valor) {
-            if (valor <= this.Saldo) {
-                this.Saldo -= valor;
+            if (valor >0 ) {
+                this._saldo -= valor;
                 return true;
                 
-            } else {
+            } else {System.Console.WriteLine("o saque nao pode ser negativo");
                 return false;
             }
         }
