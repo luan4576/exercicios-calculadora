@@ -18,7 +18,7 @@ namespace SENAIzinho
             opçao =int.Parse(Console.ReadLine());
 
 
-                
+            
             }
         }
     }

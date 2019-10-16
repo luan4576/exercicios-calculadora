@@ -10,7 +10,7 @@ namespace SENAIzinho
 
 
         
-        public Aluno (string nome, string dataNascimento,string curso,string numeroSala)
+        public Aluno (string nome, DateTime dataNascimento,string curso,string numeroSala)
         {
             this.nome = nome;
             this.dataNascimento = dataNascimento;
