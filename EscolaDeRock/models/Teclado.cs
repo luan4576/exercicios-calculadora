@@ -1,17 +1,19 @@
-using System;
-using EscolaDeRock.interfaces;
-namespace EscolaDeRock.models
+﻿using System;
+using EscolaDeRock.Interfaces;
+
+namespace EscolaDeRock.Models
 {
-    public class Teclado : InstrumentoMusical,IMelodia,IHarmonia
+    public class Teclado : InstrumentoMusical, IMelodia, IHarmonia
     {
         public bool TocarAcordes()
         {
-            System.Console.WriteLine("tocando acordes de teclado.");
+            Console.WriteLine("Tocando acordes de Teclado.");
             return true;
         }
+
         public bool TocarSolo()
         {
-            System.Console.WriteLine("tocando solo de teclado");
+            Console.WriteLine("Tocando solo de Teclado");
             return true;
         }
     }

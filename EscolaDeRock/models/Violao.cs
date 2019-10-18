@@ -1,29 +1,25 @@
-using System;
+﻿using System;
 using EscolaDeRock.Interfaces;
-namespace EscolaDeRock.models
-{
-    public class violao : InstrumentoMusical, IHarmonia,IMelodia,IPercussao
-    {
-        public bool TocarAcordes()
-        {
-        System.Console.WriteLine("tocando acordes de violao");
-        return true;
-        }
 
+namespace EscolaDeRock.Models
+{
+    public class Violao : InstrumentoMusical, IHarmonia, IMelodia, IPercussao
+    {
         public bool ManterRitmo()
         {
-            System.Console.WriteLine("mantendo ritmo do violao");
+            Console.WriteLine("Mantendo ritmo do Violão.");
             return true;
         }
+
         public bool TocarAcordes()
         {
-            System.Console.WriteLine("tocando acordes do violao.");
+            Console.WriteLine("Tocando acordes do Violão.");
             return true;
         }
 
         public bool TocarSolo()
         {
-            System.Console.WriteLine("tocando solo do violao.");
+            Console.WriteLine("Tocando solo do Violão.");
             return true;
         }
     }
